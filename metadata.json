@@ -1,0 +1,6 @@
+{
+  "name": "Gestão DTO - Diagnóstico de Trabalho Operacional",
+  "description": "Sistema de acompanhamento mensal de checklists de segurança DTO, gestão de colaboradores QLP e relatórios de conformidade logística.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
